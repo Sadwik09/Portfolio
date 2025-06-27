@@ -1,2 +1,2 @@
 # Portfolio
-file:///E:/Portfolio/index.html
+(https://portfolio-sadwik.netlify.app/)
